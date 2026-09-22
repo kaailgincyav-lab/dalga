@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Ripple",
+  "description": "İnteraktif sıvı dalgalanma simülasyonu - yağmur, fırtına ve kar efektleri içeren dinamik hava durumu modu, dokunma dalgalarıyla fiziksel etkileşim ve viskoziteye duyarlı ses sentezi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
